@@ -59,7 +59,7 @@ static NSString *const kHeaderID = @"JHHeaderReusableView";
 /** 设置导航栏 */
 - (void)setupNav
 {
-    self.navigationItem.title = @"collectionView做的首页";
+    self.navigationItem.title = @"collectionView的头部视图漂浮";
     
     
     self.navigationController.navigationBar.translucent = NO;
